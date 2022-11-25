@@ -2,8 +2,8 @@
 <h3 align="center">I mostly do web development but sometimes work on discord bots, mc plugins, game development, and more</h3>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=developer-egg&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-egg&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=developer-egg" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-egg/>
 </div
 
 <h3 align="left">Languages and Tools:</h3>
