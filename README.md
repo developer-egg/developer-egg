@@ -3,7 +3,7 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=developer-egg" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-egg/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-egg&/>
 </div
 
 <h3 align="left">Languages and Tools:</h3>
